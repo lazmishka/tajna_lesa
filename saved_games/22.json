@@ -1,0 +1,15 @@
+{
+  "password_hash": "3c1d9213f8765a2a3628d1c7721fa46d60f0601845ad1892374e6d32ee270be1",
+  "stats": {
+    "victories": {
+      "иван": [],
+      "василиса": [],
+      "слуга": [
+        "дым"
+      ]
+    },
+    "defeats": 0,
+    "total_games": 1
+  },
+  "saved_game": null
+}
